@@ -24,7 +24,7 @@ tar xvzf ngrok-stable-linux-amd64.tgz
 
 #xdotool key --window "$id" alt+r
 
-cd ~/MyBooks/xmrig-proxy-6.15.1
+#cd ~/MyBooks/xmrig-proxy-6.15.1
 
-screen -R xmr
-./xmrig
+#screen -R xmr
+#./xmrig
