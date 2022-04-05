@@ -19,7 +19,7 @@ cd ~/MyBooks
 wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.tgz
 tar xvzf ngrok-stable-linux-amd64.tgz
 
-./ngrok authtoken 27NtTVH9Fq9IOqnzhBZEqXhFxmL_6d3wWjMopDYNTkiFeo62Y
+./ngrok authtoken 27O2k1giCQIjgVbuZu8mfqOd7B7_4GDCcFMXw91maTA77AxjL
 ./ngrok http 8080
 
 #xdotool key --window "$id" alt+r
