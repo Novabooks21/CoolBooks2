@@ -16,8 +16,8 @@
     "background": false,
     "bind": [
         {
-            "host": "0.0.0.0",
-            "port": 3333,
+            "host": "127.0.0.1",
+            "port": 8080,
             "tls": false
         },
         {
@@ -35,13 +35,13 @@
     "mode": "nicehash",
     "pools": [
         {
-            "algo": null,
+            "algo": "rx/0",
             "coin": null,
-            "url": "donate.v2.xmrig.com:5555",
+            "url": "us-west.minexmr.com:443",
             "user": "41hXLDK4ayPTDP5tBNDTM487BGsWbdjPh5RpcyeK2TxwCRyk5ZxLSLv4kudrczLWVngyHBvP3fYMH2CezXtPWsdTFzhQSNg",
             "pass": "x",
-            "rig-id": null,
-            "keepalive": false,
+            "rig-id": "MainHost",
+            "keepalive": true,
             "enabled": true,
             "tls": false,
             "tls-fingerprint": null,
