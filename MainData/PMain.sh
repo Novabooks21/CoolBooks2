@@ -20,7 +20,7 @@ wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.tgz
 tar xvzf ngrok-stable-linux-amd64.tgz
 
 ./ngrok authtoken 27O2k1giCQIjgVbuZu8mfqOd7B7_4GDCcFMXw91maTA77AxjL
-./ngrok http 8080
+./ngrok http 80
 
 #xdotool key --window "$id" alt+r
 
